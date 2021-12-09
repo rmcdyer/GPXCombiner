@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+.java-version
+*.tcx
+*.gpx
+*.class
+*.iml
+
+SpoofTCXLocation.java
+SpoofTCXLocation.class
+
+sampledata/
+v1/
+v2/
